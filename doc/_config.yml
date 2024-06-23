@@ -1,0 +1,15 @@
+###########################################################
+### Jekyll Config
+###########################################################
+
+title: Project-ACT.info
+author: devops@project-act.info
+
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  
